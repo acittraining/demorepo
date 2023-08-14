@@ -1,2 +1,0 @@
-This is file2 and we learning git
-This is a text file
