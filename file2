@@ -1,4 +1,7 @@
 This is file2 
 We are making some changes to file2
 This is the content of file2
+<<<<<<< HEAD
+=======
 
+>>>>>>> cc74ef66b2dea8408b57c93e50cecfad0c00e658
